@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1\AppMain.cs">
+    <Files>
+      <File FileName="Project1\EnemyDumb.cs" Line="17" Column="32" />
+      <File FileName="Project1\EnemyLockOn.cs" Line="65" Column="4" />
+      <File FileName="Project1\EnemySentry.cs" Line="1" Column="1" />
+      <File FileName="Project1\Weapon.cs" Line="1" Column="1" />
+      <File FileName="Project1\EnemyBoss.cs" Line="115" Column="5" />
+      <File FileName="Project1\WeaponBasic.cs" Line="21" Column="4" />
+      <File FileName="Project1\ProjectileFlame.cs" Line="19" Column="18" />
+      <File FileName="Project1\ProjectileLazer.cs" Line="24" Column="3" />
+      <File FileName="Project1\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Project1\ProjectileBasic.cs" Line="14" Column="27" />
+      <File FileName="Project1\WeaponFlame.cs" Line="14" Column="40" />
+      <File FileName="Project1\WeaponLazer.cs" Line="19" Column="3" />
+      <File FileName="Project1\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Project1\Sprite.cs" Line="1" Column="1" />
+      <File FileName="Project1\AppMain.cs" Line="543" Column="54" />
+      <File FileName="Project1\bin\Debug\Project1-unsigned\Documents\highscores.txt" Line="1" Column="1" />
+      <File FileName="Project1\Player.cs" Line="395" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Project1" expanded="True">
+            <Node name="AppMain.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

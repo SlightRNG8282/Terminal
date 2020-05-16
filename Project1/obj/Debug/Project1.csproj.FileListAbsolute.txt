@@ -1,0 +1,800 @@
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1.psdp
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\obj\Debug\app.exe
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\obj\Debug\app.pdb
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\bin\Debug\Project1.psdp
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\obj\Debug\app.exe
+C:\Users\rkelley4\Documents\Projects\Project1\Project1\obj\Debug\app.pdb
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1.psdp
+C:\Users\Slight\Documents\Projects\Project1\Project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slight\Documents\Projects\Project1\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\Project1\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Slight\Documents\Projects\Project1\Project1\obj\Debug\app.exe
+C:\Users\Slight\Documents\Projects\Project1\Project1\obj\Debug\app.pdb
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\Slight\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\daniel.kelley\Documents\Projects\Project1\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1.psdp
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\obj\Debug\app.exe
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\obj\Debug\app.pdb
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1.psdp
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\obj\Debug\app.exe
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\obj\Debug\app.pdb
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+C:\Users\Jared\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+C:\Users\Slight\Documents\Projects\ProjectGame1\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb
+C:\Users\Matt\Downloads\Terminal_MatthewCanada_DanielKelley\Final_Project\Project1\obj\Debug\app.exe
+C:\Users\Matt\Downloads\Terminal_MatthewCanada_DanielKelley\Final_Project\Project1\obj\Debug\app.pdb
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+C:\Users\Matt\Downloads\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+E:\Terminal_RichardKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\playstate.mp3
+E:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\playstate.mp3
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\playstate.mp3
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\playstate.mp3
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+F:\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dat.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\dumbenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lockonenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicwpn.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flamethrower.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerwpn.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\datsheet.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\bossenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\playstate.mp3
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dat.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\dumbenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\angrysentryenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lockonenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicwpn.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flamethrower.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerwpn.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\datsheet.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\bossenemy.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\playstate.mp3
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+C:\Users\Slight\Desktop\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.info
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\shaders\Sprite.cgx
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Json.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Xml.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Runtime.Serialization.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.Core.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.Web.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\System.ServiceModel.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\app.exe.mdb
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\sentryexclaimation.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\shine.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\flameproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\lazerproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\pausedscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Hero_Char.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Fire_Ball.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Copter.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Sentry.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Flamethrower2.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\LaserBeam.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Pistol.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\Boss.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\portal.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\byescreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\enterscorescreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\highscores.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\intro.mp3
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\startscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\directionsscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\playstate.mp3
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-unsigned\Application\Assets\basicproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.info
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\shaders\Sprite.cgx
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Json.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Xml.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Runtime.Serialization.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.Core.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.Web.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\System.ServiceModel.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Sce.PlayStation.HighLevel.UI.dll
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\app.exe.mdb
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\sentryexclaimation.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\shine.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\flameproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\lazerproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\pausedscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Hero_Char.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Fire_Ball.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Copter.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Sentry.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Flamethrower2.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\LaserBeam.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Pistol.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\Boss.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\portal.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\byescreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\enterscorescreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\highscores.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\intro.mp3
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\startscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\directionsscreen.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\playstate.mp3
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1-signed\Application\Assets\basicproj.png
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\bin\Debug\Project1.psdp
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\shaders\shaders\Sprite.cgx
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\convertedpdb\app.exe.mdb
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.exe
+C:\Users\Daniel Kelley\Documents\IMPORTANT\_Portfolio\Terminal_DanielKelley_MatthewCanada\ProjectGame1 %281%29\Final_Project\Project1\obj\Debug\app.pdb

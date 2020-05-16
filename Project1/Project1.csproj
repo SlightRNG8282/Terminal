@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FEBB9021-C70F-40A0-B784-0EC0720D1D8B}</ProjectGuid>
+    <ProjectTypeGuids>{69878862-DA7D-4DC6-B0A1-50D8FAB4242F};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Project1</RootNamespace>
+    <AssemblyName>Project1</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Sce.PlayStation.Core" />
+    <Reference Include="Sce.PlayStation.HighLevel.UI" />
+    <Reference Include="Sce.PlayStation.HighLevel.GameEngine2D" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\AppMain.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Sprite.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Weapon.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Projectile.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\WeaponBasic.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\ProjectileBasic.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\WeaponFlame.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\ProjectileFlame.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\WeaponLazer.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\ProjectileLazer.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Enemy.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\EnemyBoss.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\EnemyLockOn.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\EnemySentry.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\EnemyDumb.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\LevelInfo.cs" />
+    <Compile Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Player.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PsmMetadata Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\app.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Sce\Sce.Psm.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\" />
+    <Folder Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\shaders\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ShaderProgram Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\shaders\Sprite.fcg" />
+    <ShaderProgram Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\shaders\Sprite.vcg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\sentryexclaimation.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\shine.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\flameproj.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\lazerproj.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\pausedscreen.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Hero_Char.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Fire_Ball.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Copter.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Sentry.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Flamethrower2.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\LaserBeam.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Pistol.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\Boss.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\portal.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\byescreen.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\enterscorescreen.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\highscores.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\intro.mp3" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\startscreen.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\directionsscreen.png" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\playstate.mp3" />
+    <Content Include="..\..\..\ProjectGame1 %281%29\Final_Project\Project1\Assets\basicproj.png" />
+  </ItemGroup>
+</Project>
